@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
-import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-import { ChevronDown, Search, Filter, Plus, Edit2, Trash2, Download, Moon, Sun, Eye, Edit3 } from 'lucide-react';
+import { LineChart, Line, BarChart, Bar, PieChart, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip,  ResponsiveContainer } from 'recharts';
+import {  Search, Filter, Plus, Edit2, Trash2, Download, Moon, Sun,  } from 'lucide-react';
 const MOCK_TRANSACTIONS = [
   { id: 1, date: '2024-04-15', amount: 207500, category: 'Salary', type: 'income', description: 'Monthly Salary' },
   { id: 2, date: '2024-04-14', amount: 7055, category: 'Groceries', type: 'expense', description: 'Weekly shopping' },

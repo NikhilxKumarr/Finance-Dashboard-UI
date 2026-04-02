@@ -98,15 +98,7 @@ http://localhost:3000
 
 ---
 
-## 💰 Indian Localization
 
-This project is customized for Indian users:
-
-* Currency converted to **₹ (INR)**
-* Realistic expense values (salary, groceries, transport, etc.)
-* Indian number formatting (`en-IN`)
-
----
 
 ## 📸 Screenshots
 
