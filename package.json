@@ -1,16 +1,20 @@
 {
   "name": "finance-dashboard",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A sophisticated finance dashboard UI built with React and Tailwind CSS",
   "private": true,
   "dependencies": {
-    "@testing-library/dom": "^10.4.1",
-    "@testing-library/jest-dom": "^6.9.1",
-    "@testing-library/react": "^16.3.2",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "tailwindcss": "^3.3.0",
+    "recharts": "^2.10.0",
+    "lucide-react": "^0.292.0",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
