@@ -6,7 +6,7 @@ A modern, responsive financial dashboard built using **React.js** and **Tailwind
 
 ## 🚀 Live Demo
 
-👉 https://finance-dashboard-ui.vercel.app *(update after deployment)*
+👉 https://finance-dashboard-ui-woad.vercel.app/ 
 
 ---
 
@@ -100,11 +100,7 @@ http://localhost:3000
 
 
 
-## 📸 Screenshots
 
-*(Add screenshots after deployment)*
-
----
 
 ## ⚖️ Technical Decisions
 
